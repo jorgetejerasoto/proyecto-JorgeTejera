@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<rss version="2.0">
+    <channel>
+        <title> Nuevo de FIGHT PERDOMO </title>
+        <link>https://jorgetejerasoto.github.io/proyecto-JorgeTejera</link>
+        <description>Aquí aparecerá todo el contenido nuevo en la web de FIGHT PERDOMO</description>
+            <item>
+                <title>Añadido de miembros</title>
+                <link>https://jorgetejerasoto.github.io/proyecto-JorgeTejera/equipo.html </link>
+                <description>Se han añadido todos los miembros actuales del club</description>
+            </item>
+    </channel>
+
+</rss>

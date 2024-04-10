@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="shortcut icon" href="img/2503381.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anta&display=swap" rel="stylesheet">
+    <title>Contacto</title>
+</head>
+<body>
+    <header>
+        <img src="img/logoSinFondo.png" alt="">
+        <h2>Club Deportivo Fight Perdomo</h2>
+    </header>
+    <nav class="menu">
+        
+        <ul>
+            <li><a href="index.html">Club</a></li>
+            <li><a href="equipo.html">Equipo</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+    <div class="main2">
+        <h2>¿Quieres inscribirte? ¡Contacta con nosotros!</h2>
+        <form action="contac.txt" method="get">
+
+            <label for="name">Nombre: </label><br>
+            <input type="text" id="name" name="user_name" required><br>
+
+            <label for="surname">Apellidos: </label><br>
+            <input type="text" id="apellido" name="user_surname"><br>
+
+            <label for="mail">E-mail: </label><br>
+            <input type="email" id="mail" name="user_email"placeholder="example@email.com" required><br>
+
+            <label for="phnum">Telefono: </label><br>
+            <input type="tel" id="phnum" name="user_phnum" ><br>
+
+            <label for="msg">Déjanos un mensaje: </label><br>
+            <textarea name="msg" id="msg" cols="30" rows="10" placeholder="¡¡¡Dejanos un mensaje con tus dudas!!!..."></textarea> <br>
+            
+            
+            <input type="submit" value="enviar" class="boton">
+            <input type="reset" value="reiniciar" class="boton">
+
+        </form>
+        <footer>
+            <h3>Redes del Club</h3>
+            <div class="redes">
+                <a href="https://www.instagram.com/fight_perdomo/"><img src="img/instagram.png" alt="instagram"></a>
+                <a href="https://www.youtube.com/@FIGHTPERDOMO"><img src="img/youtube.png" alt="youtube"></a>
+                <a href="sms:660154872"><img src="img/whatsapp.png" alt=""></a>
+            </div>
+            FIGHT PERDOMO. Club Homologado desde 2016
+        </footer>
+    </div>
+</body>
+</html>

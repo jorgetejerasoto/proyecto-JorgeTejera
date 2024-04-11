@@ -10,6 +10,16 @@
                 <link>https://jorgetejerasoto.github.io/proyecto-JorgeTejera/equipo.html </link>
                 <description>Se han añadido todos los miembros actuales del club</description>
             </item>
+            <item>
+                <title>Añadido de información importante</title>
+                <link>https://jorgetejerasoto.github.io/proyecto-JorgeTejera/equipo.html </link>
+                <description>Se ha añadido información importante respecto al club</description>
+            </item>
+            <item>
+                <title>Añadido de horario</title>
+                <link>https://jorgetejerasoto.github.io/proyecto-JorgeTejera/index.html </link>
+                <description>Se ha añadido horario</description>
+            </item>
     </channel>
 
 </rss>

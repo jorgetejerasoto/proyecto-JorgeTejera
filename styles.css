@@ -219,11 +219,21 @@ form textarea:hover{
     
 }
 
+
 .main3 section{
     width: 50%;
 }
+.main3 section article{
+    margin: auto 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
-
+.main3 table{
+    text-align: center;
+}
 
 
 
@@ -242,7 +252,7 @@ form textarea:hover{
     align-items: center;
 }
 .content-club2 a{
-    width: 25%;
+    width: 40%;
 }
 
 

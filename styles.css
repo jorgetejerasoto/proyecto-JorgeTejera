@@ -245,6 +245,10 @@ form textarea:hover{
     justify-content: center;
     color: yellow;
 }
+.content-club img{
+    filter: drop-shadow(3px 3px 1px rgb(246, 255, 0));
+    z-index: -1000;
+}
 
 .content-club2{
     margin-top: 10px;
